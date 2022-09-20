@@ -1,5 +1,5 @@
 1. git init
-2. git add . | git add README.md(we use add . to add every file in the folder to the .git folder | add README.md to add a read me file)
+2. git add . | git add README.md(we use add . to add every file in the folder to the .git folder | add README.md to add a readme file)
 3. git commit -m "first commit"
 4. git remote add origin https://github.com...
 5. git remote set-url origin https://USER:<MYTOKEN>@github.com/USER/REPO.git
